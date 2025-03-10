@@ -51,6 +51,11 @@ pip install streamlit pandas scikit-learn
 
 ---
 
+## 📌 Interface
+    ![Texto Alternativo](imagens/streamlit.png)
+    
+---
+
 ## 📜 Licença
 
 Este projeto é de uso livre. Sinta-se à vontade para modificá-lo e aprimorá-lo! 😊
