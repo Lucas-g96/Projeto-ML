@@ -51,9 +51,14 @@ pip install streamlit pandas scikit-learn
 
 ---
 
-## 📌 Interface
-    ![Texto Alternativo](imagens/streamlit.png)
-    
+## Correlação Entre os dados:
+![Correlação Entre os dados](imagens/output.png)
+
+---
+
+## 📌 Interface web via Streamlit
+![Texto Alternativo](imagens/streamlit.png)
+
 ---
 
 ## 📜 Licença
